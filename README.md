@@ -16,3 +16,10 @@ Example: 910
 |_| ..| |.|
 ..| ..| |_|
 ```
+
+##Tasking Time
+1. Task1 9 min
+2. Task2 30 min 
+3. Task3 10 min
+4. integration 6min
+
